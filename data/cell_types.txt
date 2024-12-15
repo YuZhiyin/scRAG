@@ -1,0 +1,900 @@
+delta
+capillary endothelial cell
+acinar
+endothelial
+gamma
+regular ventricular cardiac myocyte
+Erythrocytes
+CD14+ Monocytes
+native cell
+regular ventricular cardiac myocyte
+Monocyte-derived dendritic cells
+Megakaryocyte progenitors
+CD8+ T cells
+acinar
+beta
+capillary endothelial cell
+vein endothelial cell
+endothelial
+endothelial cell
+Erythrocytes
+regular ventricular cardiac myocyte
+HSPCs
+CD10+ B cells
+regular ventricular cardiac myocyte
+alpha
+CD4+ T cells
+Erythroid progenitors
+alpha
+Monocyte progenitors
+capillary endothelial cell
+CD10+ B cells
+beta
+alpha
+endothelial cell of artery
+ductal
+regular ventricular cardiac myocyte
+regular atrial cardiac myocyte
+Erythroid progenitors
+gamma
+regular ventricular cardiac myocyte
+CD4+ T cells
+CD20+ B cells
+Monocyte-derived dendritic cells
+HSPCs
+pericyte cell
+pericyte cell
+regular atrial cardiac myocyte
+alpha
+ductal
+pericyte cell
+capillary endothelial cell
+capillary endothelial cell
+CD20+ B cells
+alpha
+NK cells
+CD20+ B cells
+CD20+ B cells
+regular ventricular cardiac myocyte
+pericyte cell
+delta
+pericyte cell
+Erythrocytes
+CD8+ T cells
+Plasmacytoid dendritic cells
+beta
+fibroblast
+pericyte cell
+beta
+regular atrial cardiac myocyte
+pericyte cell
+beta
+smooth muscle cell
+vein endothelial cell
+native cell
+endothelial cell of artery
+endothelial
+ductal
+endothelial
+regular ventricular cardiac myocyte
+native cell
+delta
+ductal
+NKT cells
+NK cells
+Erythrocytes
+NK cells
+endothelial
+delta
+regular ventricular cardiac myocyte
+delta
+ductal
+CD20+ B cells
+CD20+ B cells
+Monocyte progenitors
+pericyte cell
+ductal
+Erythroid progenitors
+endothelial
+endothelial
+ductal
+regular ventricular cardiac myocyte
+HSPCs
+fibroblast
+gamma
+gamma
+alpha
+pericyte cell
+delta
+CD4+ T cells
+CD14+ Monocytes
+ductal
+Megakaryocyte progenitors
+beta
+gamma
+fibroblast
+Monocyte progenitors
+endothelial
+pericyte cell
+HSPCs
+regular atrial cardiac myocyte
+regular ventricular cardiac myocyte
+regular atrial cardiac myocyte
+fibroblast
+fibroblast
+endothelial cell of artery
+regular atrial cardiac myocyte
+NK cells
+gamma
+Monocyte-derived dendritic cells
+endothelial
+macrophage
+CD10+ B cells
+CD4+ T cells
+gamma
+pericyte cell
+epicardial adipocyte
+alpha
+regular ventricular cardiac myocyte
+capillary endothelial cell
+delta
+beta
+CD14+ Monocytes
+Erythrocytes
+regular ventricular cardiac myocyte
+capillary endothelial cell
+regular ventricular cardiac myocyte
+Erythroid progenitors
+pericyte cell
+delta
+pericyte cell
+CD8+ T cells
+gamma
+Erythrocytes
+ductal
+endothelial
+gamma
+fibroblast
+alpha
+CD14+ Monocytes
+NK cells
+beta
+Erythrocytes
+Monocyte progenitors
+acinar
+CD20+ B cells
+Monocyte-derived dendritic cells
+CD4+ T cells
+CD14+ Monocytes
+B cell
+regular atrial cardiac myocyte
+delta
+alpha
+fibroblast
+CD4+ T cells
+Erythrocytes
+regular atrial cardiac myocyte
+pericyte cell
+endothelial
+native cell
+ductal
+alpha
+Monocyte-derived dendritic cells
+Erythrocytes
+endothelial cell of artery
+Plasmacytoid dendritic cells
+Erythroid progenitors
+pericyte cell
+CD8+ T cells
+regular ventricular cardiac myocyte
+regular ventricular cardiac myocyte
+CD14+ Monocytes
+regular ventricular cardiac myocyte
+Erythroid progenitors
+CD8+ T cells
+ductal
+CD8+ T cells
+Monocyte-derived dendritic cells
+Megakaryocyte progenitors
+gamma
+Monocyte-derived dendritic cells
+delta
+NK cells
+beta
+Erythrocytes
+pericyte cell
+regular ventricular cardiac myocyte
+regular atrial cardiac myocyte
+Erythroid progenitors
+beta
+pericyte cell
+acinar
+regular ventricular cardiac myocyte
+CD10+ B cells
+endothelial
+endothelial
+Monocyte-derived dendritic cells
+endothelial cell
+capillary endothelial cell
+acinar
+Erythroid progenitors
+pericyte cell
+endothelial
+regular ventricular cardiac myocyte
+Plasma cells
+NK cells
+gamma
+CD20+ B cells
+regular ventricular cardiac myocyte
+regular ventricular cardiac myocyte
+vein endothelial cell
+regular ventricular cardiac myocyte
+pericyte cell
+gamma
+acinar
+CD4+ T cells
+smooth muscle cell
+alpha
+NKT cells
+endothelial
+alpha
+beta
+fibroblast
+regular atrial cardiac myocyte
+fibroblast
+gamma
+smooth muscle cell
+Plasma cells
+capillary endothelial cell
+regular ventricular cardiac myocyte
+regular atrial cardiac myocyte
+ductal
+pericyte cell
+endothelial
+endothelial
+CD8+ T cells
+beta
+beta
+regular ventricular cardiac myocyte
+endothelial cell of artery
+endothelial cell
+gamma
+pericyte cell
+Monocyte-derived dendritic cells
+fibroblast
+beta
+Plasmacytoid dendritic cells
+ductal
+CD8+ T cells
+NKT cells
+mature NK T cell
+alpha
+delta
+CD14+ Monocytes
+NKT cells
+CD14+ Monocytes
+endothelial cell
+ductal
+regular atrial cardiac myocyte
+regular ventricular cardiac myocyte
+capillary endothelial cell
+regular ventricular cardiac myocyte
+CD8+ T cells
+smooth muscle cell
+regular ventricular cardiac myocyte
+natural killer cell
+Megakaryocyte progenitors
+CD4+ T cells
+CD8+ T cells
+CD14+ Monocytes
+ductal
+endothelial
+alpha
+CD10+ B cells
+capillary endothelial cell
+Plasmacytoid dendritic cells
+gamma
+Erythroid progenitors
+ductal
+regular ventricular cardiac myocyte
+Megakaryocyte progenitors
+regular ventricular cardiac myocyte
+capillary endothelial cell
+native cell
+regular ventricular cardiac myocyte
+capillary endothelial cell
+CD8-positive, alpha-beta cytotoxic T cell
+Megakaryocyte progenitors
+Erythrocytes
+beta
+CD4+ T cells
+pericyte cell
+NKT cells
+NKT cells
+endothelial cell of artery
+NK cells
+regular ventricular cardiac myocyte
+ductal
+Monocyte-derived dendritic cells
+Plasma cells
+alpha
+capillary endothelial cell
+CD8+ T cells
+CD10+ B cells
+endothelial
+regular atrial cardiac myocyte
+regular ventricular cardiac myocyte
+Monocyte progenitors
+activated CD4-positive, alpha-beta T cell
+acinar
+acinar
+endothelial
+regular ventricular cardiac myocyte
+gamma
+native cell
+NK cells
+ductal
+fibroblast
+regular atrial cardiac myocyte
+CD20+ B cells
+fibroblast
+macrophage
+alpha
+acinar
+Monocyte progenitors
+Plasmacytoid dendritic cells
+Plasma cells
+delta
+Erythroid progenitors
+endothelial
+regular ventricular cardiac myocyte
+HSPCs
+acinar
+Erythrocytes
+Megakaryocyte progenitors
+CD8+ T cells
+CD14+ Monocytes
+gamma
+native cell
+CD14+ Monocytes
+delta
+CD8-positive, alpha-beta cytotoxic T cell
+pericyte cell
+Plasmacytoid dendritic cells
+ductal
+capillary endothelial cell
+Erythroid progenitors
+CD20+ B cells
+regular ventricular cardiac myocyte
+pericyte cell
+CD10+ B cells
+Plasma cells
+regular ventricular cardiac myocyte
+vein endothelial cell
+CD14+ Monocytes
+NK cells
+CD10+ B cells
+Plasma cells
+regular ventricular cardiac myocyte
+Plasmacytoid dendritic cells
+Erythroid progenitors
+Monocyte progenitors
+activated CD8-positive, alpha-beta T cell
+NKT cells
+Erythroid progenitors
+Plasmacytoid dendritic cells
+CD14-positive, CD16-positive monocyte
+Monocyte-derived dendritic cells
+smooth muscle cell
+activated CD8-positive, alpha-beta T cell
+HSPCs
+fibroblast
+acinar
+Monocyte progenitors
+regular ventricular cardiac myocyte
+NK cells
+Erythrocytes
+capillary endothelial cell
+regular ventricular cardiac myocyte
+Monocyte progenitors
+Monocyte-derived dendritic cells
+Monocyte progenitors
+Plasma cells
+fibroblast
+Monocyte-derived dendritic cells
+endothelial
+alpha
+acinar
+regular atrial cardiac myocyte
+alpha
+native cell
+acinar
+regular ventricular cardiac myocyte
+NK cells
+delta
+pericyte cell
+Plasma cells
+capillary endothelial cell
+CD8+ T cells
+acinar
+alpha
+CD10+ B cells
+delta
+beta
+Monocyte progenitors
+endothelial cell of artery
+ductal
+regular atrial cardiac myocyte
+endothelial cell
+beta
+ductal
+endothelial
+gamma
+HSPCs
+gamma
+NKT cells
+acinar
+delta
+pericyte cell
+CD10+ B cells
+CD10+ B cells
+beta
+Monocyte progenitors
+HSPCs
+Plasma cells
+fibroblast
+delta
+gamma
+fibroblast
+delta
+delta
+HSPCs
+regular ventricular cardiac myocyte
+regular ventricular cardiac myocyte
+endothelial
+capillary endothelial cell
+endothelial
+Plasmacytoid dendritic cells
+vein endothelial cell
+beta
+acinar
+acinar
+CD20+ B cells
+gamma
+ductal
+fibroblast
+capillary endothelial cell
+endothelial cell of artery
+CD4+ T cells
+neural cell
+Megakaryocyte progenitors
+ductal
+CD8+ T cells
+HSPCs
+pericyte cell
+beta
+Plasmacytoid dendritic cells
+gamma
+NK cells
+regular ventricular cardiac myocyte
+Erythrocytes
+fibroblast
+regular atrial cardiac myocyte
+fibroblast
+monocyte
+regular atrial cardiac myocyte
+CD14+ Monocytes
+ductal
+acinar
+regular ventricular cardiac myocyte
+alpha
+Monocyte-derived dendritic cells
+CD10+ B cells
+acinar
+regular ventricular cardiac myocyte
+Erythrocytes
+pericyte cell
+NK cells
+Megakaryocyte progenitors
+delta
+Erythrocytes
+CD8+ T cells
+acinar
+NKT cells
+Megakaryocyte progenitors
+ductal
+endothelial
+ductal
+NKT cells
+beta
+delta
+alpha
+CD4+ T cells
+acinar
+Plasmacytoid dendritic cells
+endothelial cell
+Megakaryocyte progenitors
+endothelial
+Megakaryocyte progenitors
+regular ventricular cardiac myocyte
+Erythrocytes
+regular atrial cardiac myocyte
+fibroblast
+HSPCs
+regular atrial cardiac myocyte
+Erythroid progenitors
+regular ventricular cardiac myocyte
+NK cells
+CD10+ B cells
+gamma
+Monocyte progenitors
+endothelial
+CD8+ T cells
+CD8+ T cells
+NKT cells
+ductal
+delta
+delta
+beta
+capillary endothelial cell
+fibroblast
+endothelial
+monocyte
+acinar
+ductal
+fibroblast
+gamma
+Plasmacytoid dendritic cells
+endothelial
+ductal
+fibroblast
+endothelial cell of artery
+delta
+CD14-positive, CD16-positive monocyte
+pericyte cell
+acinar
+macrophage
+CD20+ B cells
+gamma
+Monocyte progenitors
+CD14+ Monocytes
+endothelial
+Plasma cells
+pericyte cell
+fibroblast
+macrophage
+ductal
+CD10+ B cells
+pericyte cell
+HSPCs
+regular ventricular cardiac myocyte
+beta
+gamma
+alpha
+endothelial cell of artery
+macrophage
+capillary endothelial cell
+ductal
+native cell
+ductal
+regular ventricular cardiac myocyte
+fibroblast
+ductal
+acinar
+Erythrocytes
+regular ventricular cardiac myocyte
+pericyte cell
+ductal
+delta
+beta
+regular atrial cardiac myocyte
+regular ventricular cardiac myocyte
+gamma
+ductal
+ductal
+fibroblast
+CD8+ T cells
+CD10+ B cells
+endothelial
+regular ventricular cardiac myocyte
+endothelial
+gamma
+gamma
+fibroblast
+Monocyte-derived dendritic cells
+NK cells
+endothelial
+native cell
+neural cell
+alpha
+pericyte cell
+natural killer cell
+Plasma cells
+Megakaryocyte progenitors
+CD10+ B cells
+pericyte cell
+native cell
+HSPCs
+delta
+native cell
+capillary endothelial cell
+alpha
+ductal
+Plasma cells
+regular atrial cardiac myocyte
+fibroblast
+delta
+Erythrocytes
+Plasma cells
+delta
+CD4+ T cells
+Plasmacytoid dendritic cells
+beta
+pericyte cell
+regular ventricular cardiac myocyte
+beta
+beta
+CD14+ Monocytes
+Megakaryocyte progenitors
+Megakaryocyte progenitors
+alpha
+CD4-positive, alpha-beta cytotoxic T cell
+HSPCs
+capillary endothelial cell
+CD4+ T cells
+acinar
+HSPCs
+capillary endothelial cell
+mature NK T cell
+endothelial
+CD4+ T cells
+CD4+ T cells
+CD20+ B cells
+acinar
+NKT cells
+ductal
+CD14+ Monocytes
+CD4+ T cells
+beta
+beta
+endothelial
+Monocyte progenitors
+fibroblast
+regular ventricular cardiac myocyte
+NKT cells
+Megakaryocyte progenitors
+endothelial cell of artery
+alpha
+ductal
+capillary endothelial cell
+pericyte cell
+NK cells
+NK cells
+Monocyte progenitors
+natural killer cell
+fibroblast
+HSPCs
+Monocyte-derived dendritic cells
+fibroblast
+regular atrial cardiac myocyte
+endothelial cell
+smooth muscle cell
+CD14-positive, CD16-positive monocyte
+CD10+ B cells
+NKT cells
+ductal
+Erythroid progenitors
+Plasmacytoid dendritic cells
+CD4+ T cells
+CD14+ Monocytes
+NKT cells
+endothelial
+acinar
+endothelial
+Plasma cells
+Plasma cells
+regular atrial cardiac myocyte
+Plasma cells
+ductal
+Megakaryocyte progenitors
+Plasma cells
+regular ventricular cardiac myocyte
+gamma
+Plasmacytoid dendritic cells
+Erythroid progenitors
+endothelial
+endothelial
+regular atrial cardiac myocyte
+activated CD4-positive, alpha-beta T cell
+pericyte cell
+acinar
+fibroblast
+ductal
+Monocyte-derived dendritic cells
+ductal
+CD20+ B cells
+ductal
+Plasma cells
+alpha
+beta
+endothelial
+Plasmacytoid dendritic cells
+regular ventricular cardiac myocyte
+endothelial cell of artery
+gamma
+smooth muscle cell
+regular ventricular cardiac myocyte
+Megakaryocyte progenitors
+gamma
+HSPCs
+delta
+native cell
+endothelial
+gamma
+beta
+acinar
+endothelial
+ductal
+pericyte cell
+fibroblast
+NKT cells
+regular ventricular cardiac myocyte
+endothelial cell of artery
+CD4+ T cells
+ductal
+endothelial cell of artery
+ductal
+delta
+regular atrial cardiac myocyte
+alpha
+fibroblast
+gamma
+HSPCs
+beta
+NKT cells
+pericyte cell
+gamma
+HSPCs
+pericyte cell
+NKT cells
+CD20+ B cells
+endothelial
+CD8+ T cells
+CD10+ B cells
+acinar
+beta
+alpha
+Plasma cells
+CD20+ B cells
+capillary endothelial cell
+Monocyte progenitors
+fibroblast
+monocyte
+CD20+ B cells
+fibroblast
+alpha
+pericyte cell
+beta
+delta
+endothelial
+fibroblast
+ductal
+acinar
+NK cells
+NK cells
+CD20+ B cells
+CD20+ B cells
+acinar
+gamma
+CD10+ B cells
+pericyte cell
+Erythroid progenitors
+endothelial
+pericyte cell
+beta
+regular ventricular cardiac myocyte
+Erythrocytes
+Plasma cells
+alpha
+regular ventricular cardiac myocyte
+fibroblast
+pericyte cell
+HSPCs
+pericyte cell
+fibroblast
+regular ventricular cardiac myocyte
+CD14+ Monocytes
+acinar
+endothelial cell
+Plasmacytoid dendritic cells
+Monocyte-derived dendritic cells
+endothelial
+regular ventricular cardiac myocyte
+delta
+beta
+pericyte cell
+alpha
+CD10+ B cells
+fibroblast
+native cell
+alpha
+alpha
+NKT cells
+CD4+ T cells
+vein endothelial cell
+fibroblast
+CD8+ T cells
+CD8-positive, alpha-beta cytotoxic T cell
+regular ventricular cardiac myocyte
+regular atrial cardiac myocyte
+capillary endothelial cell
+gamma
+acinar
+Megakaryocyte progenitors
+endothelial
+alpha
+endothelial cell
+Monocyte progenitors
+acinar
+Monocyte-derived dendritic cells
+capillary endothelial cell
+regular ventricular cardiac myocyte
+delta
+Erythroid progenitors
+beta
+endothelial
+beta
+ductal
+Monocyte progenitors
+ductal
+endothelial
+alpha
+gamma
+CD4+ T cells
+delta
+Plasmacytoid dendritic cells
+beta
+endothelial
+regular atrial cardiac myocyte
+Monocyte progenitors
+B cell
+macrophage
+fibroblast
+CD14+ Monocytes
+pericyte cell
+Erythroid progenitors
+Plasmacytoid dendritic cells
+delta
+endothelial
+monocyte
+regular atrial cardiac myocyte
+endothelial
+alpha
+delta
+pericyte cell
+regular ventricular cardiac myocyte
+beta
+beta
+CD14-positive, CD16-positive monocyte
+capillary endothelial cell
+Megakaryocyte progenitors
+endothelial
+Erythroid progenitors
+fibroblast
+ductal
+Plasmacytoid dendritic cells
+NKT cells
+gamma
+ductal
+endothelial
+CD14+ Monocytes
+regular ventricular cardiac myocyte
+ductal
+delta
+CD20+ B cells
+acinar
+pericyte cell
+endothelial cell of artery
+Monocyte-derived dendritic cells
+endothelial
+acinar
